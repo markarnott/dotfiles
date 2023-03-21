@@ -3,7 +3,7 @@
 	autocrlf = input
 [user]
 	name = Mark Arnott
-	email = mark.arnott@appliedis.com
+	email = 209603+markarnott@users.noreply.github.com
 [alias]
 	mylog = log -20 --graph --pretty=format:'%C(cyan)%h%Creset -%C(magenta)%d %Cgreen%s  %C(cyan)<%an> %C(yellow)(%cd)%Creset' --date=human
 

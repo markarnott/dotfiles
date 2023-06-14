@@ -1,6 +1,6 @@
 # dotfiles
 
-Configurations and scripts to quickly setup new workstations
+Configurations and scripts to quickly setup new development workstations the way I like them.
 
 ## Use at your own risk
 

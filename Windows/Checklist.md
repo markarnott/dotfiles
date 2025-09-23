@@ -5,6 +5,7 @@ Are all these tools installed and working
 ## Tools on the Path
 
 ```powershell
+$PSVersionTable
 git --version
 code --version
 wsl --version

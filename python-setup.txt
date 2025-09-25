@@ -1,0 +1,7 @@
+py --list-paths
+
+py -V:3.12 -m venv .venv
+
+.\.venv\Scripts\activate.ps1
+
+python -m pip install --upgrade pip

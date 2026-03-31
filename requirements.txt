@@ -1,4 +1,4 @@
 ipython
-uv
 httpie
 frogmouth
+marimo

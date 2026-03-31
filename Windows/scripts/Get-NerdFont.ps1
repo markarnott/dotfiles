@@ -9,7 +9,8 @@
 # Different Nerd Fonts can be previewed here
 # https://www.programmingfonts.org/#firacode
 
-$MyFontRelease = "v3.0.2/FiraCode.zip"
+#$MyFontRelease = "v3.0.2/FiraCode.zip"
+$MyFontRelease = "v3.4.0/FiraCode.zip"
 New-Item NerdFont -ItemType Directory
 Push-Location NerdFont
 

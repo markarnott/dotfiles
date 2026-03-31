@@ -8,9 +8,11 @@ Are all these tools installed and working
 $PSVersionTable
 git --version
 code --version
-wsl --version
-volta --version
 starship version
+wsl --version
+
+py --list
+volta --version
 docker --version
 ```
 

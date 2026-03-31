@@ -11,6 +11,15 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Whiteboard_8wekyb3d8bbwe"
+				},
+				{
+					"PackageIdentifier" : "WinMerge.WinMerge"
+				},
+				{
+					"PackageIdentifier" : "Nushell.Nushell"
+				},
+				{
+					"PackageIdentifier" : "Volta.Volta"
 				}
 			],
 			"SourceDetails" : 
